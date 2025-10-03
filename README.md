@@ -1,5 +1,3 @@
-## Stanescu Delia-Georgiana
-
 # Task 1:
 Se iau din stack parametrii functiei (lungimea vectorului si primul nod). Se cauta pe rand fiecare
 numar de la 1 la n in vector (mergand din element in element in vector pana elementul curent are
