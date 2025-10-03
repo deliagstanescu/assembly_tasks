@@ -1,4 +1,4 @@
-## Stanescu Delia-Georgiana, 311CA
+## Stanescu Delia-Georgiana
 
 # Task 1:
 Se iau din stack parametrii functiei (lungimea vectorului si primul nod). Se cauta pe rand fiecare
